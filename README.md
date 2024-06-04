@@ -42,7 +42,7 @@ npm install
 Start the server:
 ```bash
 cd server
-node index.js
+node server.js
 ```
 
 Start the client:
