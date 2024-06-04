@@ -21,8 +21,8 @@ MERN Blog App is a full-stack web application built using the MERN (MongoDB, Exp
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/MohdGhazanfar/Blog-App.git
-   cd Blog-App
+   git clone https://github.com/MohdGhazanfar/MERN-Blog-App.git
+   cd MERN-Blog-App
    ```
 
 ## Install dependencies:
